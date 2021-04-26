@@ -1,0 +1,14 @@
+---
+entries:
+  - catalog:
+      description: Java
+      source: https://github.com/archetect/catalog-java.git
+  - catalog:
+      description: Rust
+      source: https://github.com/archetect/catalog-rust.git
+  - catalog:
+      description: NodeJS
+      source: https://github.com/archetect/catalog-nodejs.git
+  - catalog:
+      description: Go
+      source: https://github.com/archetect/catalog-go.git
